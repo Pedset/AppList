@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="countries">
+        <item>Sweden</item>
+        <item>Denmark</item>
+        <item>Norway</item>
+    </string-array>
+
+    <string-array name="capitals">
+        <item>Stockholm</item>
+        <item>Copenhagen</item>
+        <item>Oslo</item>
+    </string-array>
+
+    <string-array name="Language">
+        <item>Swedish</item>
+        <item>Danish</item>
+        <item>Norwegian</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>
